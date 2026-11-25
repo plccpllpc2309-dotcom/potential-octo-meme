@@ -1,0 +1,2 @@
+../Application/User/highscore_flash.c:17:10:HighScore_Load	3
+../Application/User/highscore_flash.c:28:6:HighScore_Save	5

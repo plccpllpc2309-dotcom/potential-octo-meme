@@ -1,0 +1,17 @@
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:903:13:SPI5_Write	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:1015:6:StartDefaultTask	5
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:286:6:SystemClock_Config	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:192:5:main	2
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:747:6:IOE_Init	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:756:6:IOE_ITConfig	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:768:6:IOE_Write	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:779:9:IOE_Read	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:792:10:IOE_ReadMultiple	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:801:6:IOE_Delay	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:929:6:LCD_IO_Init	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:939:6:LCD_IO_WriteData	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:955:6:LCD_IO_WriteReg	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:974:10:LCD_IO_ReadData	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:1001:6:LCD_Delay	1
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:1074:6:HAL_TIM_PeriodElapsedCallback	2
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/Core/Src/main.c:1092:6:Error_Handler	1

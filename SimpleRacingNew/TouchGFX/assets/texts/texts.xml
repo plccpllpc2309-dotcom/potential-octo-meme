@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.27.0">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="btnRestart" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">RESTART</Translation>
+      </Text>
+      <Text Id="txtGameOver" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">GAME OVER</Translation>
+      </Text>
+      <Text Id="txtCurrentScore" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">S: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="txtHighScore" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">HI: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_KEAX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="txtScore" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">HI: &lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0-9" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Typography1" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

@@ -1,0 +1,4 @@
+../../TouchGFX/generated/fonts/include/fonts/ApplicationFontProvider.hpp:31:7:ApplicationFontProvider::~ApplicationFontProvider()	0	static
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/TouchGFX/generated/fonts/src/ApplicationFontProvider.cpp:29:6:virtual void ApplicationFontProvider::initialize()	0	static
+../../TouchGFX/generated/fonts/include/fonts/ApplicationFontProvider.hpp:31:7:virtual ApplicationFontProvider::~ApplicationFontProvider()	8	static
+C:/TouchGFXProjects/SimpleRacingNew/SimpleRacingNew/TouchGFX/generated/fonts/src/ApplicationFontProvider.cpp:8:17:virtual touchgfx::Font* ApplicationFontProvider::getFont(touchgfx::FontId)	8	static
